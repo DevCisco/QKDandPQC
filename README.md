@@ -139,7 +139,7 @@ delle conclusioni, che passa automaticamente a una versione con avviso.
 
 ## Esecuzione
 
-Il progetto è **una singola cella** in `progettobb84_v3_unificato.ipynb`. Aprire
+Il progetto è **una singola cella** in `progettobb84.ipynb`. Aprire
 il notebook ed eseguirla.
 
 L'esecuzione completa richiede alcuni minuti e produce:
