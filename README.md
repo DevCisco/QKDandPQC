@@ -1,4 +1,4 @@
-# QKD v2.1 — BB84 · SSP · E91 with a post-quantum cryptographic stack
+# QKD- BB84 · SSP · E91 with a post-quantum cryptographic stack
 
 A [NetSquid](https://netsquid.org/) simulation of three Quantum Key Distribution
 protocols, with the complete classical pipeline: Cascade reconciliation, key
